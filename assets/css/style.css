@@ -397,12 +397,14 @@ h6 {
   line-height: 56px;
   color: #c63d2f;
   font-family: "Poppins", sans-serif;
+  position: relative;
 }
 
 #hero h2 {
   color: #ffbb5c;
   margin-bottom: 50px;
   font-size: 20px;
+  position: relative ;
 }
 
 #hero .download-btn {
@@ -453,8 +455,8 @@ h6 {
 
 @media (max-width: 768px) {
   #hero h1 {
-    font-size: 28px;
-    line-height: 36px;
+    font-size: 24px;
+    line-height: 30px;
   }
 
   #hero h2 {
