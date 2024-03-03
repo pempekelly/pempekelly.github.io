@@ -455,8 +455,9 @@ h6 {
 
 @media (max-width: 768px) {
   #hero h1 {
-    font-size: 24px;
-    line-height: 30px;
+    font-size: 32px;
+    line-height: 38px;
+    color: #fff;
   }
 
   #hero h2 {
@@ -637,6 +638,10 @@ section {
 
   .features .image img {
     max-width: 80%;
+  }
+  .features p{
+    font-size: 14px;
+    text-align: justify;
   }
 }
 
